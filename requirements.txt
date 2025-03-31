@@ -1,4 +1,5 @@
 streamlit
+streamlit_folium
 pytube
 folium
 requests
